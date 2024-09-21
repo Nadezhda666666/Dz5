@@ -1,0 +1,7 @@
+my_string = input("Введите Ваше имя: ")
+print(len(my_string))
+print("Приятно познакомится" ,my_string.upper())
+print("Приятно познакомится" ,my_string.lower())
+print("Приятно познакомится" ,my_string.replace("", ""))
+print("Приятно познакомится" ,my_string[0])
+print("Приятно познакомится" ,my_string[-1])
